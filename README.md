@@ -6,6 +6,6 @@
 - JavaScript
 - Babel
 - Webpack
-- Photoshop 
+- Adobe Photoshop 
 ### 📫 You can reach me via discord: ***chrisu#1853***
 
