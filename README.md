@@ -7,5 +7,5 @@
 - Babel
 - Webpack
 - Adobe Photoshop 
-### 📫 You can reach me via discord: ***chrisu#1853***
+### 📫 You can reach me via discord: ***devChrisu#1089***
 
