@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Chris!
 - 👀 I’m interested in HTML, CSS, Javascript, and I'm looking to gain skills in front-end web development!
-- 🌱 I plan to learn React and back-end tech soon such as Node.js and MongoDB soon.
+- 🌱 I plan to learn React soon!
 ### Skills include:
 - HTML & CSS
 - JavaScript
