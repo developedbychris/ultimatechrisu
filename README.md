@@ -4,8 +4,7 @@
 ### Skills include:
 - HTML & CSS
 - JavaScript
-- Babel
-- Webpack
+- Babel & Webpack
 - Adobe Photoshop 
 ### 📫 You can reach me via discord: ***devChrisu#1089***
 
