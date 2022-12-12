@@ -6,5 +6,5 @@
 - JavaScript
 - Babel & Webpack
 - Adobe Photoshop 
-### 📫 You can reach me via discord: ***</chrisu>#1089***
+### 📫 You can reach me via discord: *** </chrisu>#1089 ***
 
