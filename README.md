@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Chris!
 - 👀 I’m interested in HTML, CSS, Javascript, and I'm looking to gain skills in front-end web development!
-- 🌱 I plan to learn React soon!
+- 🌱 Currently Learning React, Redux, Firebase, and GraphQL! 😁 
 ### Skills include:
 - HTML & CSS
 - JavaScript
