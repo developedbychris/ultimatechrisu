@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Chris!</h1>
-<p align="center"><img src="https://media2.giphy.com/media/6r7TXx0ZHCs4KC7A7X/200w.gif?cid=6c09b9525joizbc5x1t5n0bfju9hz36o02w52ekclvblb9v3&rid=200w.gif&ct=g"></p>
+<p align="center"><img src="http://24.media.tumblr.com/668a21316e691594842eaa2d618862cc/tumblr_mposgyzArC1s5lf2ro1_500.gif"></p>
 
 - 👀 I’m interested in all things JavaScript and I'm looking to gain skills in front-end web development!
 - 🌱 Currently Learning React, Redux, Firebase, and GraphQL! 😁 
