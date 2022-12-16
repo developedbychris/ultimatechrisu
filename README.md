@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in all things JavaScript and I'm looking to gain skills in front-end web development!
 - 🌱 Currently Learning React, Redux, Firebase, and GraphQL! 😁 
-### Familiarities:
+### Experienced with:
 - HTML & CSS (Libraries: Bootstrap & Tailwind)
 - JavaScript
 - Webpack W/ Babel
