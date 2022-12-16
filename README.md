@@ -9,5 +9,5 @@
 - Webpack W/ Babel
 - Adobe Photoshop 
 
-<h1 align="center">📫 You can reach me via discord: <em>&lt;/chrisu&gt;#1089</em></h1>
+<h3 align="center">📫 You can reach me via Discord: <em>&lt;/chrisu&gt;#1089</em></h3>
 
