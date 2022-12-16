@@ -8,5 +8,6 @@
 - JavaScript
 - Webpack W/ Babel
 - Adobe Photoshop 
-### 📫 You can reach me via discord: ***&lt;/chrisu&gt;#1089***
+
+<h1 align="center">📫 You can reach me via discord: <em>&lt;/chrisu&gt;#1089</em></h1>
 
