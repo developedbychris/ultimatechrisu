@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I’m Chris!</h1> 
+
 - 👀 I’m interested in all things JavaScript and I'm looking to gain skills in front-end web development!
 - 🌱 Currently Learning React, Redux, Firebase, and GraphQL! 😁 
 ### Skills include:
