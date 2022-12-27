@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chris
+<h2 align="center">👋 Hi, I'm Chris!</h2>
 <p align="center"><img src="https://media2.giphy.com/media/6r7TXx0ZHCs4KC7A7X/200w.gif?cid=6c09b9525joizbc5x1t5n0bfju9hz36o02w52ekclvblb9v3&rid=200w.gif&ct=g"></p>
 
 - 👀 I’m interested in all things JavaScript and I'm looking to gain skills in front-end web development!
