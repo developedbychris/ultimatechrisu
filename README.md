@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I'm Chris!</h2>
+<h1 align="center">👋 Hi, I'm Chris!</h1>
 <p align="center"><img src="https://media2.giphy.com/media/6r7TXx0ZHCs4KC7A7X/200w.gif?cid=6c09b9525joizbc5x1t5n0bfju9hz36o02w52ekclvblb9v3&rid=200w.gif&ct=g"></p>
 
 - 👀 I’m interested in all things JavaScript and I'm looking to gain skills in front-end web development!
