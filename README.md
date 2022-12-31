@@ -22,6 +22,6 @@
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
 
-<h3 align="center">📫 You can reach me via Discord</h3>
+<h3 align="center">📫 You can reach me via Discord</h3> </chrisu>#1089
 <p align="center"><img src="https://discord.c99.nl/widget/theme-4/475236925842653205.png"></p>
 
