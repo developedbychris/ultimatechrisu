@@ -25,7 +25,7 @@
 <br>
 
 <h1 align="center">📫 You can reach me via Discord</h1>
-<h4 align="center"> </chrisu>#1089 </h4>
+<h4 align="center"> &lt;/chrisu&gt;#1089 </h4>
 
 <p align="center"><img src="https://discord.c99.nl/widget/theme-4/475236925842653205.png"></p>
 
