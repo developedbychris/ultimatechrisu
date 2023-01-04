@@ -24,7 +24,9 @@
 <br>
 <br>
 
-
+```html
+<script src="script-url"></script>
+```
 <h1 align="center">📫 You can reach me via Discord</h1>
 <h4 align="center">Click <span>HERE</span> to copy username.</h4>
 <p align="center"><img src="https://discord.c99.nl/widget/theme-4/475236925842653205.png"></p>
