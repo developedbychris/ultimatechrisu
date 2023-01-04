@@ -26,7 +26,7 @@
 
 <h1 align="center">📫 You can reach me via Discord</h1>
 <h4 align="center">Click <span>HERE</span> to copy username.</h4>
-<script\>... javascript code...</script\>
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"\> </script\>
 <p align="center"><img src="https://discord.c99.nl/widget/theme-4/475236925842653205.png"></p>
 
 
