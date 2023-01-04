@@ -24,6 +24,7 @@
 <br>
 <br>
 <h1 align="center">📫 You can reach me via Discord</h1>
-<p align="center"><img src="https://discord.c99.nl/widget/theme-4/475236925842653205.png" onclick="navigator.clipboard.writeText('</chrisu>
-#1089')"></p>
+<h4 align="center">Click <a onclick="navigator.clipboard.writeText('</chrisu>
+  #1089')">HERE</a> to copy username.</h4>
+<p align="center"><img src="https://discord.c99.nl/widget/theme-4/475236925842653205.png"></p>
 
