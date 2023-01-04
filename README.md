@@ -2,6 +2,7 @@
 <p align="center"><img src="https://media2.giphy.com/media/6r7TXx0ZHCs4KC7A7X/200w.gif?cid=6c09b9525joizbc5x1t5n0bfju9hz36o02w52ekclvblb9v3&rid=200w.gif&ct=g"></p>
 
 <h3> <img src="https://cdn.discordapp.com/attachments/1060095286715891712/1060095829307826276/gif6.gif" height="45"> About Me</h3>
+
 - 👀 I’m interested in all things JavaScript and I'm looking to gain skills in front-end web development!
 - 🌱 Currently learning React, Redux, Firebase, and GraphQL! 😁
 - 🤩 Niches that I'm interested in: Automotive, Anime, Music, and Fashion. 💫
