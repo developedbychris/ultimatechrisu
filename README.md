@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in all things JavaScript and I'm looking to gain skills and employment in front-end web development!
 - 🌱 Currently learning React, Redux, Firebase, and GraphQL! 😁
-- 🤩 Niches that I'm interested in: Automotive, Anime, Music, and Fashion. 💫
+
 
 ### Languages & Tools
 
