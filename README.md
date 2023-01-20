@@ -4,8 +4,8 @@
 
 ## About Me
 
-### 👀 I’m interested in all things JavaScript and I'm looking to gain skills and employment in front-end web development!
-### 🌱 Currently learning React, Redux, Firebase, and GraphQL! 😁
+#### 👀 I’m interested in all things JavaScript and I'm looking to gain skills and employment in front-end web development!
+#### 🌱 Currently learning React, Redux, Firebase, and GraphQL! 😁
 
 
 ## Languages & Tools
