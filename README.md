@@ -1,5 +1,7 @@
 <h1 align="center"><img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="30"> Hi, I'm Chris!</h1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+front+end+developer.;I'm+currently+learning+React.)](https://git.io/typing-svg)
+
 <p align="center"><img src="https://media2.giphy.com/media/6r7TXx0ZHCs4KC7A7X/200w.gif?cid=6c09b9525joizbc5x1t5n0bfju9hz36o02w52ekclvblb9v3&rid=200w.gif&ct=g" height="250"></p>
 
 ### About Me
