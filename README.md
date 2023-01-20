@@ -7,7 +7,7 @@
 
 
 
-#### 👀 I’m interested in all things JavaScript and I'm looking to gain skills and employment in front-end web development!
+#### 👀 I'm looking to gain skills and employment in front-end web development!
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+currently+learning%3A;React%2C+Redux%2C+%26+C%23+%F0%9F%98%81">
 
 ##
