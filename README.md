@@ -7,7 +7,7 @@
 
 
 
-#### 👀 I'm looking to gain skills and employment in front-end web development!
+### 👀 I'm looking to gain skills and employment in front-end web development!
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+currently+learning%3A;React%2C+Redux%2C+%26+C%23+%F0%9F%98%81">
 
 ##
@@ -21,7 +21,7 @@
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-
+<a href="https://vitejs.dev"><img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" width="36" height="36"></a>
 </p>
 
 <p align="left">
