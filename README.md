@@ -9,6 +9,7 @@
 
 ### ⚒️ Actively working on gaining skills and employment in web development.
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+currently+learning%3A;React+%26+Python++%F0%9F%98%81">
+<p></p>
 
 ##
 
