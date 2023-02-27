@@ -8,7 +8,7 @@
 
 
 ### ⚒️ Actively working on gaining skills and employment in web development.
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+currently+learning%3A;React+%26+Python++%F0%9F%98%81">
+<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github!;I'm+currently+working+with%3A;Next.js%2C+React%2C+and+TailwindCSS+%3A)" alt="Typing SVG">
 <p>I have a fun time learning new skills and have an inate geniune passion for problem solving. Having an extensive background in graphic designing led me to front end web development, but I also love tinkering with things on the back end. However, I'm primarily focused on front end work for now.</p>
 
 ##
