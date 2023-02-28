@@ -6,7 +6,7 @@
 ## About Me
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github!;I'm+currently+working+with%3A;Next.js%2C+React%2C+and+TailwindCSS+%3A)">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik&weight=600&duration=1500&pause=1500&width=435&lines=Welcome+to+my+Github!;I'm+currently+working+with%3A;Next.js%2C+React%2C+and+TailwindCSS++%F0%9F%98%81" alt="Typing SVG" /></a>
 
 ### ⚒️ Actively working on gaining skills and employment in web development.
 
