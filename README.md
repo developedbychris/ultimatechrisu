@@ -66,7 +66,8 @@
 
 <p align="center"><img src="https://discord.c99.nl/widget/theme-4/475236925842653205.png"></p>
 
-<h4 align="center"> &lt;Chrisu/&gt;#1089 </h4>
+
+
 
 
 
